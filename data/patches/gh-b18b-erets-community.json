@@ -1,0 +1,82 @@
+{
+	"id": -1,
+	"name": "Eret's Community",
+	"description": "The bear, \"Ted,\" drawn by twitch streamer, Eret's, community. On-stream, Eret instructed chat members to place Ted along with other artworks elsewhere on the canvas. Those artworks included a flamingo, Eret's Minecraft head, an axolotyl in a water bucket, Eret's cats (Goose and Basil), two Minecraft hardcore hearts, and Blahaj. \n\nWhile those artworks were maintained during Eret's stream, they were wiped out in the void overnight. \n\nThe community then rallied to replace the area surrounding Ted, originally filled with pride flags to represent Eret's heavily LGBTQ+ community and honor the representation and validation they provide, with some of the pieces that Eret favored. ",
+	"links": {
+		"website": [
+			"https://twitch.tv/eret"
+		],
+		"subreddit": [
+			"eret"
+		],
+		"discord": [
+			"eret"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				684,
+				569
+			],
+			[
+				684,
+				569
+			],
+			[
+				685,
+				569
+			],
+			[
+				685,
+				569
+			],
+			[
+				673,
+				572
+			],
+			[
+				674,
+				549
+			],
+			[
+				692,
+				548
+			],
+			[
+				692,
+				571
+			],
+			[
+				673,
+				571
+			],
+			[
+				673,
+				549
+			],
+			[
+				673,
+				548
+			],
+			[
+				692,
+				548
+			],
+			[
+				692,
+				548
+			],
+			[
+				692,
+				548
+			]
+		]
+	},
+	"center": {
+		"254": [
+			689,
+			566
+		]
+	}
+}
